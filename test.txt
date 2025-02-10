@@ -1,1 +1,1 @@
-movie : thupaki
+movie : theri
